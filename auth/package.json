@@ -1,0 +1,11 @@
+{
+  "name": "auth",
+  "version": "1.0.0",
+  "description": "Auth Service",
+  "main": "auth.js",
+  "scripts": {
+    "start": "node auth.js"
+  },
+  "author": "Madhu",
+  "license": "ISC"
+}
