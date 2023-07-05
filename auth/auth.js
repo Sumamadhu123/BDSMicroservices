@@ -93,5 +93,5 @@ const server = http.createServer (
 
 const port = 3000;
 server.listen(port, () => {
-  console.log(`Auth service running on port ${port}`);
+  console.log(`BDS Auth service running on port ${port}`);
 });
